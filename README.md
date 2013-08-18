@@ -1,3 +1,15 @@
+EDIT
+====
+
+This project has essentially collapsed into https://github.com/Dokument/PyBitmessage-Daemon
+Everything that you could do with walrus, you can do with daemon exclusding passing arguments. It uses a cli instead.
+
+I may come back and update this if it ever does not work with the current build, so it is worth keeping up with.
+
+Thanks,
+
+.dok
+
 walrus
 ======
 
